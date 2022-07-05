@@ -54,13 +54,13 @@ _<h1> Hello Fellow < Coders/ >! I'am Tabish 👋🏻
 <br>
  <p align='center'>
  
-<a href="https://www.hackerrank.com/piyush_cv1999" target="blank">
+<a href="https://www.hackerrank.com/tabish_jawaid006" target="blank">
 <img  src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="piyush_cv1999" /></a>&nbsp;&nbsp;
  
-<a href="https://www.leetcode.com/fsocietypiyush" target="blank">
+<a href="https://leetcode.com/hacker_spider007/" target="blank">
  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="fsocietypiyush" /></a> &nbsp;&nbsp;
  
- <a href="https://auth.geeksforgeeks.org/user/piyushcv1999/" target="blank">
+ <a href="https://auth.geeksforgeeks.org/user/tabishjawaid006/profile" target="blank">
  <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="fsocietypiyush" /></a>&nbsp;&nbsp;
  <br>
 </p>
@@ -201,9 +201,6 @@ _<h1> Hello Fellow < Coders/ >! I'am Tabish 👋🏻
 
 ## Github Contributions 📈
 
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=piyushhawq&theme=react-dark&hide_border=true">
-<p>
 
 <hr>
 
