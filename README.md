@@ -38,14 +38,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Tabish 👋🏻
 <a href="https://www.linkedin.com/in/tabish-jawaid-7b4978181" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
  
-<a href="https://www.reddit.com/user/FSocietyhawq" target="_blank">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
- 
-  <a href="https://twitter.com/FSocietyhawq" target="_blank">
-<img src="https://img.shields.io/badge/FSocietyhawq-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;
- 
+
  
  <br>
  </p>
